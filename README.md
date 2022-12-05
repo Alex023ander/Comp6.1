@@ -1,4 +1,4 @@
-# COmp6.1
+# Comp6.1
 
 
 public static void main(String[] args) {
